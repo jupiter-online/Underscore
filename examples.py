@@ -22,4 +22,4 @@ print(fo(-1000000, typ='bin', sep='__ '))
 
 print(fo(-9999999, sep='__', dis=0))
 print(fo(-9999999, typ='hex', sep='__', dis=4))
-print(fo(-9999999, typ='bin', sep='__ ', dis=8))
+print(fo(-9999999, typ='bin', sep='__', dis=8))
