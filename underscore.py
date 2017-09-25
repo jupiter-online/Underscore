@@ -1,10 +1,22 @@
-'''
-Datei:        format_number.py
-Beschreibung: Zahlen mit Trennzeichen formatieren
-Autor:        Anton Neururer - jupiter-online.net
-Ausführung:   import format_number
-Lizenz:       Public Domain
-'''
+"""
+Program:     Underscore
+Description: format large numbers with separator strings
+Author:      Anton Neururer - jupiter-online.net
+License:
+
+Underscore is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 2 as published by
+the Free Software Foundation.
+
+Underscore is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+"""
 
 
 # format numbers with user specific separators
