@@ -9,10 +9,10 @@ The function fo() has 4 arguments:
 ```
 fo(num, typ='dec', sep='_', dis=None)
 ```
-num: decimal number to be formated
-typ: output number as "dec", "hex" or "bin"
-sep: separator string
-dis: distance for insertion of separator string, defaults: dec: 3, hex: 2, bin: 4
+**num**: decimal number to be formated  
+**typ**: output number as "dec", "hex" or "bin"  
+**sep**: separator string  
+**dis**: distance for insertion of separator string, defaults: dec: 3, hex: 2, bin: 4  
 ## Examples
 Format a number with underscores:
 ```
